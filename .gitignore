@@ -1,0 +1,30 @@
+# temp files
+.DS_Store
+.tmp
+.sass-cache
+
+# npm & bower
+/node_modules/
+/app/bower_components/
+
+# custom gulp settings
+/gulp/.gulp_settings.json
+
+# ionic fonts
+/app/main/assets/fonts/ionicons.*
+
+# cordova
+/platforms/
+/plugins/
+/res/*/current/
+
+# build folder
+/www/**
+
+# IDE
+.idea
+*.sublime-project
+*.sublime-workspace
+server/node_modules
+server/npm-debug.log
+server/environments.js
