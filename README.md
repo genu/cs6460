@@ -2,7 +2,7 @@
 ### Running locally
 
 ```sh
-gulp watch --env=prod
+gulp watch --env=dev
 ```
 
 This will build the app and open it up in the browser.
